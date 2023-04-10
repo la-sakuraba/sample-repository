@@ -1,2 +1,2 @@
-# sample-repository
-更新
+# sample-repository 
+koshin
